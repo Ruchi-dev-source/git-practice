@@ -9,6 +9,8 @@ VPC include a lot of amjor topic to be practiced amd learnt , some of them are :
 4  Elastic load balancer -this feature of aws redirects the traffic to the diffrent route tables according to there path, it is based on type of traffic that where it has to be diverted by the load balancer .
 5 route tables -next concept is route tables which is the pathway for diffrent traffic to reach diffrent instances according to their type which is redirected by the load balancer, it acts as a bridge between load balancer to instances , the route table should be secured for the purpose of securing the data safely.
 6 Subnet- network is divided into smaller sections so that it would be easier to store and manipulate data when divided in parts , security tool for subnet level is NACL.
-NACL-network access controal is the security level placed ion subnet level 
+NACL-network access controal is the security level placed on subnet level and also the last step which is followed in virtual private network.
+autoscaling groups-
+
 
 
